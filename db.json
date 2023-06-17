@@ -1,14 +1,29 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "todos": [
+    {
+      "id": 1,
+      "text": "Hoc Bai",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "text": "Lau Nha",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "text": "Di Choi",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "text": "An Choi",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "text": "88",
+      "completed": false
+    }
+  ]
 }
